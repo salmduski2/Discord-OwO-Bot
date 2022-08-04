@@ -60,19 +60,19 @@
 		}
 	},
 	"role":{
-		"admin": ["420112323278143489"],
-		"manager": ["959380828838850590"],
-		"helper": ["729574996556382298"]
+		"admin": ["978011544568868868865"],
+		"manager": ["978011544568868868865"],
+		"helper": ["978011544568868868865"]
 	},
 	"modChannels": [
-		"471579186059018241",
-		"596220958730223619",
-		"645501936036216862",
-		"759637235237650440"
+		"",
+		"",
+		"",
+		""
 	],
-	"owner": "184587051943985152",
-	"guildlink": "https://discord.com/invite/owobot",
-	"invitelink": "https://discordapp.com/oauth2/authorize?client_id=408785106942164992&permissions=1074120776&scope=bot",
+	"owner": "978011544568868868865",
+	"guildlink": "https://discord.gg/Gk6Uefvd",
+	"invitelink": "https://discord.com/api/oauth2/authorize?client_id=1004809976348426272&permissions=8&scope=bot",
 	"blacklist": {
 	},
 	"debug": true
