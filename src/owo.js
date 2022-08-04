@@ -109,4 +109,4 @@ class OwO extends Base{
 	}
 }
 
-module.exports = OwO;
+module.exports = WeWe;
